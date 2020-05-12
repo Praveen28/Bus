@@ -1,0 +1,6 @@
+register,name,rollnumber,college,dept,year,area,type,status 
+1,Praveen,ECB16079,KRCT,ECE,4,Woraiyur,Not Enrolled,
+2,Bill Gates,CSB17897,KRCE,CSE,2,America,Enrolled,Pending
+3,Mukesh,EEEA1676,KRCT,EEE,1,Mumbai,Not Enrolled,
+4,Ambani,MECHA1768,KRCE,MECH,3,Kolkata,Enrolled,Paid
+5,Malaya,CIVIA4567,KRCT,CIVIL,3,,Not Enrolled,

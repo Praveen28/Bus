@@ -1,0 +1,1000 @@
+register,name,rollnumber,college,dept,year,area,type,status 
+1,David,ECB16079,KRCT,ECE,4,Tokyo,Not Enrolled,
+2,John,CSB17897,KRCE,CSE,2,New York,Enrolled,Pending
+3,Paul,EEEA1676,KRCT,EEE,1,Mexico City,Not Enrolled,
+4,Mark,MECHA1768,KRCE,MECH,3,Mumbai,Enrolled,Paid
+5,James,CIVIA4567,KRCT,CIVIL,3,São Paulo,Not Enrolled,
+6,Andrew,ECB16079,KRCT,ECE,4,Delhi,Enrolled,Pending
+7,Scott,CSB17897,KRCE,CSE,2,Shanghai,Not Enrolled,
+8,Steven,EEEA1676,KRCT,EEE,1,Kolkata,Enrolled,Paid
+9,Robert,MECHA1768,KRCE,MECH,3,Los Angeles,Not Enrolled,
+10,Stephen,CIVIA4567,KRCT,CIVIL,3,Dhaka,Enrolled,Pending
+11,William,ECB16079,KRCT,ECE,4,Buenos Aires,Not Enrolled,
+12,Craig,CSB17897,KRCE,CSE,2,Karachi,Enrolled,Paid
+13,Michael,EEEA1676,KRCT,EEE,1,Cairo,Not Enrolled,
+14,Stuart,MECHA1768,KRCE,MECH,3,Rio de Janeiro,Enrolled,Pending
+15,Christopher,CIVIA4567,KRCT,CIVIL,3,Ōsaka,Not Enrolled,
+16,Alan,ECB16079,KRCT,ECE,4,Beijing,Enrolled,Paid
+17,Colin,CSB17897,KRCE,CSE,2,Manila,Not Enrolled,
+18,Brian,EEEA1676,KRCT,EEE,1,Moscow,Enrolled,Pending
+19,Kevin,MECHA1768,KRCE,MECH,3,Istanbul,Not Enrolled,
+20,Gary,CIVIA4567,KRCT,CIVIL,3,Paris,Enrolled,Paid
+21,Richard,ECB16079,KRCT,ECE,4,Seoul,Not Enrolled,
+22,Derek,CSB17897,KRCE,CSE,2,Lagos,Enrolled,Pending
+23,Martin,EEEA1676,KRCT,EEE,1,Jakarta,Not Enrolled,
+24,Thomas,MECHA1768,KRCE,MECH,3,Guangzhou,Enrolled,Paid
+25,Neil,CIVIA4567,KRCT,CIVIL,3,Chicago,Not Enrolled,
+26,Barry,ECB16079,KRCT,ECE,4,London,Enrolled,Pending
+27,Ian,CSB17897,KRCE,CSE,2,Lima,Not Enrolled,
+28,Jason,EEEA1676,KRCT,EEE,1,Tehran,Enrolled,Paid
+29,Iain,MECHA1768,KRCE,MECH,3,Kinshasa,Not Enrolled,
+30,Gordon,CIVIA4567,KRCT,CIVIL,3,Bogotá,Enrolled,Pending
+31,Alexander,ECB16079,KRCT,ECE,4,Shenzhen,Not Enrolled,
+32,Graeme,CSB17897,KRCE,CSE,2,Wuhan,Enrolled,Paid
+33,Peter,EEEA1676,KRCT,EEE,1,Hong Kong,Not Enrolled,
+34,Darren,MECHA1768,KRCE,MECH,3,Tianjin,Enrolled,Pending
+35,Graham,CIVIA4567,KRCT,CIVIL,3,Chennai,Not Enrolled,
+36,George,ECB16079,KRCT,ECE,4,Taipei,Enrolled,Paid
+37,Kenneth,CSB17897,KRCE,CSE,2,Bengalūru,Not Enrolled,
+38,Allan,EEEA1676,KRCT,EEE,1,Bangkok,Enrolled,Pending
+39,Simon,MECHA1768,KRCE,MECH,3,Lahore,Not Enrolled,
+40,Douglas,CIVIA4567,KRCT,CIVIL,3,Chongqing,Enrolled,Paid
+41,Keith,ECB16079,KRCT,ECE,4,Miami,Not Enrolled,
+42,Lee,CSB17897,KRCE,CSE,2,Hyderabad,Enrolled,Pending
+43,Anthony,EEEA1676,KRCT,EEE,1,Dallas,Not Enrolled,
+44,Grant,MECHA1768,KRCE,MECH,3,Santiago,Enrolled,Paid
+45,Ross,CIVIA4567,KRCT,CIVIL,3,Philadelphia,Not Enrolled,
+46,Jonathan,ECB16079,KRCT,ECE,4,Belo Horizonte,Enrolled,Pending
+47,Gavin,CSB17897,KRCE,CSE,2,Madrid,Not Enrolled,
+48,Nicholas,EEEA1676,KRCT,EEE,1,Houston,Enrolled,Paid
+49,Joseph,MECHA1768,KRCE,MECH,3,Ahmadābād,Not Enrolled,
+50,Stewart,CIVIA4567,KRCT,CIVIL,3,Ho Chi Minh City,Enrolled,Pending
+51,Daniel,ECB16079,KRCT,ECE,4,Washington,Not Enrolled,
+52,Edward,CSB17897,KRCE,CSE,2,Atlanta,Enrolled,Paid
+53,Matthew,EEEA1676,KRCT,EEE,1,Toronto,Not Enrolled,
+54,Donald,MECHA1768,KRCE,MECH,3,Singapore,Enrolled,Pending
+55,Fraser,CIVIA4567,KRCT,CIVIL,3,Luanda,Not Enrolled,
+56,Garry,ECB16079,KRCT,ECE,4,Baghdad,Enrolled,Paid
+57,Malcolm,CSB17897,KRCE,CSE,2,Barcelona,Not Enrolled,
+58,Charles,EEEA1676,KRCT,EEE,1,Hāora,Enrolled,Pending
+59,Duncan,MECHA1768,KRCE,MECH,3,Shenyang,Not Enrolled,
+60,Alistair,CIVIA4567,KRCT,CIVIL,3,Khartoum,Enrolled,Paid
+61,Raymond,ECB16079,KRCT,ECE,4,Pune,Not Enrolled,
+62,Philip,CSB17897,KRCE,CSE,2,Boston,Enrolled,Pending
+63,Ronald,EEEA1676,KRCT,EEE,1,Sydney,Not Enrolled,
+64,Ewan,MECHA1768,KRCE,MECH,3,Saint Petersburg,Enrolled,Paid
+65,Ryan,CIVIA4567,KRCT,CIVIL,3,Chittagong,Not Enrolled,
+66,Francis,ECB16079,KRCT,ECE,4,Dongguan,Enrolled,Pending
+67,Bruce,CSB17897,KRCE,CSE,2,Riyadh,Not Enrolled,
+68,Patrick,EEEA1676,KRCT,EEE,1,Hanoi,Enrolled,Paid
+69,Alastair,MECHA1768,KRCE,MECH,3,Guadalajara,Not Enrolled,
+70,Bryan,CIVIA4567,KRCT,CIVIL,3,Melbourne,Enrolled,Pending
+71,Marc,ECB16079,KRCT,ECE,4,Alexandria,Not Enrolled,
+72,Jamie,CSB17897,KRCE,CSE,2,Chengdu,Enrolled,Paid
+73,Hugh,EEEA1676,KRCT,EEE,1,Rangoon,Not Enrolled,
+74,Euan,MECHA1768,KRCE,MECH,3,Phoenix,Enrolled,Pending
+75,Gerard,CIVIA4567,KRCT,CIVIL,3,Xi’an,Not Enrolled,
+76,Sean,ECB16079,KRCT,ECE,4,Porto Alegre,Enrolled,Paid
+77,Wayne,CSB17897,KRCE,CSE,2,Sūrat,Not Enrolled,
+78,Adam,EEEA1676,KRCT,EEE,1,Hechi,Enrolled,Pending
+79,Calum,MECHA1768,KRCE,MECH,3,Abidjan,Not Enrolled,
+80,Alasdair,CIVIA4567,KRCT,CIVIL,3,Brasília,Enrolled,Paid
+81,Robin,ECB16079,KRCT,ECE,4,Ankara,Not Enrolled,
+82,Greig,CSB17897,KRCE,CSE,2,Monterrey,Enrolled,Pending
+83,Angus,EEEA1676,KRCT,EEE,1,Yokohama,Not Enrolled,
+84,Russell,MECHA1768,KRCE,MECH,3,Nanjing,Enrolled,Paid
+85,Cameron,CIVIA4567,KRCT,CIVIL,3,Montréal,Not Enrolled,
+86,Roderick,ECB16079,KRCT,ECE,4,Guiyang,Enrolled,Pending
+87,Norman,CSB17897,KRCE,CSE,2,Recife,Not Enrolled,
+88,Murray,EEEA1676,KRCT,EEE,1,Seattle,Enrolled,Paid
+89,Gareth,MECHA1768,KRCE,MECH,3,Harbin,Not Enrolled,
+90,Dean,CIVIA4567,KRCT,CIVIL,3,San Francisco,Enrolled,Pending
+91,Eric,ECB16079,KRCT,ECE,4,Fortaleza,Not Enrolled,
+92,Adrian,CSB17897,KRCE,CSE,2,Zhangzhou,Enrolled,Paid
+93,Gregor,EEEA1676,KRCT,EEE,1,Detroit,Not Enrolled,
+94,Samuel,MECHA1768,KRCE,MECH,3,Salvador,Enrolled,Pending
+95,Gerald,CIVIA4567,KRCT,CIVIL,3,Busan,Not Enrolled,
+96,Henry,ECB16079,KRCT,ECE,4,Johannesburg,Enrolled,Paid
+97,Justin,CSB17897,KRCE,CSE,2,Berlin,Not Enrolled,
+98,Benjamin,EEEA1676,KRCT,EEE,1,Algiers,Enrolled,Pending
+99,Shaun,MECHA1768,KRCE,MECH,3,Rome,Not Enrolled,
+100,Callum,CIVIA4567,KRCT,CIVIL,3,Pyongyang,Enrolled,Paid
+101,Campbell,ECB16079,KRCT,ECE,4,Medellín,Not Enrolled,
+102,Frank,CSB17897,KRCE,CSE,2,Kabul,Enrolled,Pending
+103,Roy,EEEA1676,KRCT,EEE,1,Athens,Not Enrolled,
+104,Timothy,MECHA1768,KRCE,MECH,3,Nagoya,Enrolled,Paid
+105,Glen,CIVIA4567,KRCT,CIVIL,3,Cape Town,Not Enrolled,
+106,Marcus,ECB16079,KRCT,ECE,4,San Diego,Enrolled,Pending
+107,Hamish,CSB17897,KRCE,CSE,2,Changchun,Not Enrolled,
+108,Niall,EEEA1676,KRCT,EEE,1,Casablanca,Enrolled,Paid
+109,Barrie,MECHA1768,KRCE,MECH,3,Dalian,Not Enrolled,
+110,Liam,CIVIA4567,KRCT,CIVIL,3,Cawnpore,Enrolled,Pending
+111,Brendan,ECB16079,KRCT,ECE,4,Kano,Not Enrolled,
+112,Terence,CSB17897,KRCE,CSE,2,Tel Aviv-Yafo,Enrolled,Paid
+113,Greg,EEEA1676,KRCT,EEE,1,Addis Ababa,Not Enrolled,
+114,Leslie,MECHA1768,KRCE,MECH,3,Curitiba,Enrolled,Pending
+115,Lindsay,CIVIA4567,KRCT,CIVIL,3,Zibo,Not Enrolled,
+116,Trevor,ECB16079,KRCT,ECE,4,Jeddah,Enrolled,Paid
+117,Vincent,CSB17897,KRCE,CSE,2,Nairobi,Not Enrolled,
+118,Christian,EEEA1676,KRCT,EEE,1,Hangzhou,Enrolled,Pending
+119,Lewis,MECHA1768,KRCE,MECH,3,Benoni,Not Enrolled,
+120,Rory,CIVIA4567,KRCT,CIVIL,3,Caracas,Enrolled,Paid
+121,Antony,ECB16079,KRCT,ECE,4,Milan,Not Enrolled,
+122,Fergus,CSB17897,KRCE,CSE,2,Stuttgart,Enrolled,Pending
+123,Roger,EEEA1676,KRCT,EEE,1,Kunming,Not Enrolled,
+124,Arthur,MECHA1768,KRCE,MECH,3,Dar es Salaam,Enrolled,Paid
+125,Dominic,CIVIA4567,KRCT,CIVIL,3,Minneapolis,Not Enrolled,
+126,Ewen,ECB16079,KRCT,ECE,4,Jaipur,Enrolled,Pending
+127,Jon,CSB17897,KRCE,CSE,2,Taiyuan,Not Enrolled,
+128,Owen,EEEA1676,KRCT,EEE,1,Frankfurt,Enrolled,Paid
+129,Gregory,MECHA1768,KRCE,MECH,3,Qingdao,Not Enrolled,
+130,Jeffrey,CIVIA4567,KRCT,CIVIL,3,Surabaya,Enrolled,Pending
+131,Terry,ECB16079,KRCT,ECE,4,Lisbon,Not Enrolled,
+132,Damian,CSB17897,KRCE,CSE,2,Tampa,Enrolled,Paid
+133,Geoffrey,EEEA1676,KRCT,EEE,1,Jinan,Not Enrolled,
+134,Harry,MECHA1768,KRCE,MECH,3,Fukuoka,Enrolled,Pending
+135,Walter,CIVIA4567,KRCT,CIVIL,3,Campinas,Not Enrolled,
+136,Bernard,ECB16079,KRCT,ECE,4,Denver,Enrolled,Paid
+137,Desmond,CSB17897,KRCE,CSE,2,Kaohsiung,Not Enrolled,
+138,Jack,EEEA1676,KRCT,EEE,1,Quezon City,Enrolled,Pending
+139,Aaron,MECHA1768,KRCE,MECH,3,Katowice,Not Enrolled,
+140,Archibald,CIVIA4567,KRCT,CIVIL,3,Aleppo,Enrolled,Paid
+141,Blair,ECB16079,KRCT,ECE,4,Durban,Not Enrolled,
+142,Jeremy,CSB17897,KRCE,CSE,2,Kyiv,Enrolled,Pending
+143,Nathan,EEEA1676,KRCT,EEE,1,Lucknow,Not Enrolled,
+144,Alister,MECHA1768,KRCE,MECH,3,Giza,Enrolled,Paid
+145,Dale,CIVIA4567,KRCT,CIVIL,3,Zhengzhou,Not Enrolled,
+146,Dylan,ECB16079,KRCT,ECE,4,Taichung,Enrolled,Pending
+147,Glenn,CSB17897,KRCE,CSE,2,Brooklyn,Not Enrolled,
+148,Julian,EEEA1676,KRCT,EEE,1,Ibadan,Enrolled,Paid
+149,Leon,MECHA1768,KRCE,MECH,3,Faisalabad,Not Enrolled,
+150,Allen,CIVIA4567,KRCT,CIVIL,3,Fuzhou,Enrolled,Pending
+151,Martyn,ECB16079,KRCT,ECE,4,Changsha,Not Enrolled,
+152,Nigel,CSB17897,KRCE,CSE,2,Dakar,Enrolled,Paid
+153,Alisdair,EEEA1676,KRCT,EEE,1,İzmir,Not Enrolled,
+154,Denis,MECHA1768,KRCE,MECH,3,Xiangtan,Enrolled,Pending
+155,Drew,CIVIA4567,KRCT,CIVIL,3,Lanzhou,Not Enrolled,
+156,Evan,ECB16079,KRCT,ECE,4,Incheon,Enrolled,Paid
+157,Phillip,CSB17897,KRCE,CSE,2,Sapporo,Not Enrolled,
+158,Frazer,EEEA1676,KRCT,EEE,1,Xiamen,Enrolled,Pending
+159,Guy,MECHA1768,KRCE,MECH,3,Guayaquil,Not Enrolled,
+160,Laurence,CIVIA4567,KRCT,CIVIL,3,George Town,Enrolled,Paid
+161,Lawrence,ECB16079,KRCT,ECE,4,Mashhad,Not Enrolled,
+162,Magnus,CSB17897,KRCE,CSE,2,Damascus,Enrolled,Pending
+163,Crawford,EEEA1676,KRCT,EEE,1,Daegu,Not Enrolled,
+164,Finlay,MECHA1768,KRCE,MECH,3,Nāgpur,Enrolled,Paid
+165,Frederick,CIVIA4567,KRCT,CIVIL,3,Lianshan,Not Enrolled,
+166,Gregg,ECB16079,KRCT,ECE,4,Shijiazhuang,Enrolled,Pending
+167,Karl,CSB17897,KRCE,CSE,2,Tunis,Not Enrolled,
+168,Kerr,EEEA1676,KRCT,EEE,1,Vienna,Enrolled,Paid
+169,Mohammed,MECHA1768,KRCE,MECH,3,Jilin,Not Enrolled,
+170,Rodney,CIVIA4567,KRCT,CIVIL,3,Omdurman,Enrolled,Pending
+171,Victor,ECB16079,KRCT,ECE,4,Bandung,Not Enrolled,
+172,Carl,CSB17897,KRCE,CSE,2,Bekasi,Enrolled,Paid
+173,Daryl,EEEA1676,KRCT,EEE,1,Mannheim,Not Enrolled,
+174,Don,MECHA1768,KRCE,MECH,3,Nanchang,Enrolled,Pending
+175,Edwin,CIVIA4567,KRCT,CIVIL,3,Wenzhou,Not Enrolled,
+176,Erik,ECB16079,KRCT,ECE,4,Queens,Enrolled,Paid
+177,Grahame,CSB17897,KRCE,CSE,2,Vancouver,Not Enrolled,
+178,Ivan,EEEA1676,KRCT,EEE,1,Birmingham,Enrolled,Pending
+179,Kyle,MECHA1768,KRCE,MECH,3,Cali,Not Enrolled,
+180,Leigh,CIVIA4567,KRCT,CIVIL,3,Naples,Enrolled,Paid
+181,Lorne,ECB16079,KRCT,ECE,4,Sendai,Not Enrolled,
+182,Maurice,CSB17897,KRCE,CSE,2,Manchester,Enrolled,Pending
+183,Murdo,EEEA1676,KRCT,EEE,1,Puebla,Not Enrolled,
+184,Nicolas,MECHA1768,KRCE,MECH,3,Tripoli,Enrolled,Paid
+185,Steve,CIVIA4567,KRCT,CIVIL,3,Tashkent,Not Enrolled,
+186,Allister,ECB16079,KRCT,ECE,4,Havana,Enrolled,Pending
+187,Clark,CSB17897,KRCE,CSE,2,Gaoping,Not Enrolled,
+188,Darran,EEEA1676,KRCT,EEE,1,Baltimore,Enrolled,Paid
+189,Dennis,MECHA1768,KRCE,MECH,3,Nanning,Not Enrolled,
+190,Elliot,CIVIA4567,KRCT,CIVIL,3,Belém,Enrolled,Pending
+191,Leonard,ECB16079,KRCT,ECE,4,Patna,Not Enrolled,
+192,Nairn,CSB17897,KRCE,CSE,2,Santo Domingo,Enrolled,Paid
+193,Scot,EEEA1676,KRCT,EEE,1,Ürümqi,Not Enrolled,
+194,Stefan,MECHA1768,KRCE,MECH,3,Zaozhuang,Enrolled,Pending
+195,Toby,CIVIA4567,KRCT,CIVIL,3,Baku,Not Enrolled,
+196,Warren,ECB16079,KRCT,ECE,4,Accra,Enrolled,Paid
+197,Billy,CSB17897,KRCE,CSE,2,Yantai,Not Enrolled,
+198,Clive,EEEA1676,KRCT,EEE,1,Medan,Enrolled,Pending
+199,Damien,MECHA1768,KRCE,MECH,3,Santa Cruz,Not Enrolled,
+200,Louis,CIVIA4567,KRCT,CIVIL,3,Tongshan,Enrolled,Paid
+201,Mohammad,ECB16079,KRCT,ECE,4,Riverside,Not Enrolled,
+202,Neill,CSB17897,KRCE,CSE,2,Linyi,Enrolled,Pending
+203,Noel,EEEA1676,KRCT,EEE,1,St. Louis,Not Enrolled,
+204,Ralph,MECHA1768,KRCE,MECH,3,Las Vegas,Enrolled,Paid
+205,Sandy,CIVIA4567,KRCT,CIVIL,3,Maracaibo,Not Enrolled,
+206,Albert,ECB16079,KRCT,ECE,4,Kuwait City,Enrolled,Pending
+207,Alun,CSB17897,KRCE,CSE,2,Ad Dammām,Not Enrolled,
+208,Brett,EEEA1676,KRCT,EEE,1,Portland,Enrolled,Paid
+209,Clifford,MECHA1768,KRCE,MECH,3,Haikou,Not Enrolled,
+210,Eoin,CIVIA4567,KRCT,CIVIL,3,Hiroshima,Enrolled,Pending
+211,Glyn,ECB16079,KRCT,ECE,4,Baotou,Not Enrolled,
+212,Imran,CSB17897,KRCE,CSE,2,Hefei,Enrolled,Paid
+213,Ivor,EEEA1676,KRCT,EEE,1,Indore,Not Enrolled,
+214,Johnathan,MECHA1768,KRCE,MECH,3,Goiânia,Enrolled,Pending
+215,Kevan,CIVIA4567,KRCT,CIVIL,3,Sanaa,Not Enrolled,
+216,Neal,ECB16079,KRCT,ECE,4,San Antonio,Enrolled,Paid
+217,Oliver,CSB17897,KRCE,CSE,2,Port-au-Prince,Not Enrolled,
+218,Robbie,EEEA1676,KRCT,EEE,1,Haiphong,Enrolled,Pending
+219,Roland,MECHA1768,KRCE,MECH,3,Suzhou,Not Enrolled,
+220,Stanley,CIVIA4567,KRCT,CIVIL,3,Nanyang,Enrolled,Paid
+221,Aidan,ECB16079,KRCT,ECE,4,Bucharest,Not Enrolled,
+222,Antonio,CSB17897,KRCE,CSE,2,Ningbo,Enrolled,Pending
+223,Austin,EEEA1676,KRCT,EEE,1,Douala,Not Enrolled,
+224,Bradley,MECHA1768,KRCE,MECH,3,Tangshan,Enrolled,Paid
+225,Cornelius,CIVIA4567,KRCT,CIVIL,3,Tainan,Not Enrolled,
+226,Darrin,ECB16079,KRCT,ECE,4,Xiping,Enrolled,Pending
+227,Derrick,CSB17897,KRCE,CSE,2,Asunción,Not Enrolled,
+228,Innes,EEEA1676,KRCT,EEE,1,Saidu Sharif,Enrolled,Paid
+229,Kristian,MECHA1768,KRCE,MECH,3,Brisbane,Not Enrolled,
+230,Lachlan,CIVIA4567,KRCT,CIVIL,3,Rawalpindi,Enrolled,Pending
+231,Mathew,ECB16079,KRCT,ECE,4,Sacramento,Not Enrolled,
+232,Moray,CSB17897,KRCE,CSE,2,Beirut,Enrolled,Paid
+233,Nicol,EEEA1676,KRCT,EEE,1,San Jose,Not Enrolled,
+234,Shane,MECHA1768,KRCE,MECH,3,Minsk,Enrolled,Pending
+235,Tony,CIVIA4567,KRCT,CIVIL,3,Kyōto,Not Enrolled,
+236,Brent,ECB16079,KRCT,ECE,4,Barranquilla,Enrolled,Paid
+237,Findlay,CSB17897,KRCE,CSE,2,Orlando,Not Enrolled,
+238,Forbes,EEEA1676,KRCT,EEE,1,Shuyangzha,Enrolled,Pending
+239,Gilbert,MECHA1768,KRCE,MECH,3,Valencia,Not Enrolled,
+240,Giles,CIVIA4567,KRCT,CIVIL,3,Hamburg,Enrolled,Paid
+241,Jay,ECB16079,KRCT,ECE,4,Vadodara,Not Enrolled,
+242,Kelvin,CSB17897,KRCE,CSE,2,Manaus,Enrolled,Pending
+243,Leighton,EEEA1676,KRCT,EEE,1,Shangqiu,Not Enrolled,
+244,Marco,MECHA1768,KRCE,MECH,3,Wuxi,Enrolled,Paid
+245,Omar,CIVIA4567,KRCT,CIVIL,3,Palembang,Not Enrolled,
+246,Roddy,ECB16079,KRCT,ECE,4,Brussels,Enrolled,Pending
+247,Tom,CSB17897,KRCE,CSE,2,Essen,Not Enrolled,
+248,Abdul,EEEA1676,KRCT,EEE,1,Cleveland,Enrolled,Paid
+249,Alfred,MECHA1768,KRCE,MECH,3,Bhopal,Not Enrolled,
+250,Alick,CIVIA4567,KRCT,CIVIL,3,Hohhot,Enrolled,Pending
+251,Ashley,ECB16079,KRCT,ECE,4,Pittsburgh,Not Enrolled,
+252,Bryce,CSB17897,KRCE,CSE,2,Luoyang,Enrolled,Paid
+253,Conrad,EEEA1676,KRCT,EEE,1,Santos,Not Enrolled,
+254,Darryl,MECHA1768,KRCE,MECH,3,Jingling,Enrolled,Pending
+255,Eugene,CIVIA4567,KRCT,CIVIL,3,Warsaw,Not Enrolled,
+256,Harold,ECB16079,KRCT,ECE,4,Rabat,Enrolled,Paid
+257,Harvey,CSB17897,KRCE,CSE,2,Vitória,Not Enrolled,
+258,Hector,EEEA1676,KRCT,EEE,1,Quito,Enrolled,Pending
+259,Jody,MECHA1768,KRCE,MECH,3,Antananarivo,Not Enrolled,
+260,Kieran,CIVIA4567,KRCT,CIVIL,3,Coimbatore,Enrolled,Paid
+261,Kirk,ECB16079,KRCT,ECE,4,Daqing,Not Enrolled,
+262,Kris,CSB17897,KRCE,CSE,2,Lu’an,Enrolled,Pending
+263,Marshall,EEEA1676,KRCT,EEE,1,Sanzhou,Not Enrolled,
+264,Muhammad,MECHA1768,KRCE,MECH,3,Budapest,Enrolled,Paid
+265,Ramsay,CIVIA4567,KRCT,CIVIL,3,Turin,Not Enrolled,
+266,Ray,ECB16079,KRCT,ECE,4,Suzhou,Enrolled,Pending
+267,Rodger,CSB17897,KRCE,CSE,2,Ludhiāna,Not Enrolled,
+268,Seumas,EEEA1676,KRCT,EEE,1,Cincinnati,Enrolled,Paid
+269,Tommy,MECHA1768,KRCE,MECH,3,Kumasi,Not Enrolled,
+270,Wai,CIVIA4567,KRCT,CIVIL,3,Manhattan,Enrolled,Pending
+271,Alex,ECB16079,KRCT,ECE,4,Qiqihar,Not Enrolled,
+272,Ali,CSB17897,KRCE,CSE,2,Anshan,Enrolled,Paid
+273,Andrea,EEEA1676,KRCT,EEE,1,Austin,Not Enrolled,
+274,Archie,MECHA1768,KRCE,MECH,3,Zhongli,Enrolled,Pending
+275,Daren,CIVIA4567,KRCT,CIVIL,3,Handan,Not Enrolled,
+276,Derick,ECB16079,KRCT,ECE,4,Tai’an,Enrolled,Paid
+277,Gideon,CSB17897,KRCE,CSE,2,Eşfahān,Not Enrolled,
+278,Jan,EEEA1676,KRCT,EEE,1,Kansas City,Enrolled,Pending
+279,Juan,MECHA1768,KRCE,MECH,3,Yaoundé,Not Enrolled,
+280,Kerry,CIVIA4567,KRCT,CIVIL,3,Shantou,Enrolled,Paid
+281,Kieron,ECB16079,KRCT,ECE,4,Āgra,Not Enrolled,
+282,Luke,CSB17897,KRCE,CSE,2,Zhanjiang,Enrolled,Pending
+283,Lyall,EEEA1676,KRCT,EEE,1,La Paz,Not Enrolled,
+284,Manus,MECHA1768,KRCE,MECH,3,Kalyān,Enrolled,Paid
+285,Marvin,CIVIA4567,KRCT,CIVIL,3,Abuja,Not Enrolled,
+286,Morgan,ECB16079,KRCT,ECE,4,Harare,Enrolled,Pending
+287,Muir,CSB17897,KRCE,CSE,2,Indianapolis,Not Enrolled,
+288,Myles,EEEA1676,KRCT,EEE,1,Xiantao,Enrolled,Paid
+289,Ronnie,MECHA1768,KRCE,MECH,3,Khulna,Not Enrolled,
+290,Rowan,CIVIA4567,KRCT,CIVIL,3,Weifang,Enrolled,Pending
+291,Rupert,ECB16079,KRCT,ECE,4,Tijuana,Not Enrolled,
+292,Spencer,CSB17897,KRCE,CSE,2,Santiago,Enrolled,Paid
+293,Stephan,EEEA1676,KRCT,EEE,1,Xinyang,Not Enrolled,
+294,Struan,MECHA1768,KRCE,MECH,3,Luzhou,Enrolled,Pending
+295,Torquil,CIVIA4567,KRCT,CIVIL,3,Perth,Not Enrolled,
+296,Wallace,ECB16079,KRCT,ECE,4,Toluca,Enrolled,Paid
+297,Aftab,CSB17897,KRCE,CSE,2,Vishākhapatnam,Not Enrolled,
+298,Alain,EEEA1676,KRCT,EEE,1,Leeds,Enrolled,Pending
+299,Alec,MECHA1768,KRCE,MECH,3,Kōbe,Not Enrolled,
+300,Alvin,CIVIA4567,KRCT,CIVIL,3,Columbus,Enrolled,Paid
+301,Anton,ECB16079,KRCT,ECE,4,Multan,Not Enrolled,
+302,Arran,CSB17897,KRCE,CSE,2,Kochi,Enrolled,Pending
+303,Arron,EEEA1676,KRCT,EEE,1,Montevideo,Not Enrolled,
+304,Austen,MECHA1768,KRCE,MECH,3,Gujranwala,Enrolled,Paid
+305,Aynsley,CIVIA4567,KRCT,CIVIL,3,Niterói,Not Enrolled,
+306,Benedict,ECB16079,KRCT,ECE,4,Ganzhou,Enrolled,Pending
+307,Chad,CSB17897,KRCE,CSE,2,Florence,Not Enrolled,
+308,Chun,EEEA1676,KRCT,EEE,1,Liuzhou,Enrolled,Paid
+309,Clarke,MECHA1768,KRCE,MECH,3,Bamako,Not Enrolled,
+310,Damon,CIVIA4567,KRCT,CIVIL,3,Conakry,Enrolled,Pending
+311,Danny,ECB16079,KRCT,ECE,4,Bursa,Not Enrolled,
+312,Darron,CSB17897,KRCE,CSE,2,León de los Aldama,Enrolled,Paid
+313,Declan,EEEA1676,KRCT,EEE,1,Virginia Beach,Not Enrolled,
+314,Deryck,MECHA1768,KRCE,MECH,3,Nāsik,Enrolled,Pending
+315,Edmond,CIVIA4567,KRCT,CIVIL,3,Fushun,Not Enrolled,
+316,Edmund,ECB16079,KRCT,ECE,4,Changde,Enrolled,Paid
+317,Jacob,CSB17897,KRCE,CSE,2,Daejeon,Not Enrolled,
+318,Johnston,EEEA1676,KRCT,EEE,1,Charlotte,Enrolled,Pending
+319,Keiron,MECHA1768,KRCE,MECH,3,Phnom Penh,Not Enrolled,
+320,Kennedy,CIVIA4567,KRCT,CIVIL,3,Neijiang,Enrolled,Paid
+321,Khalil,ECB16079,KRCT,ECE,4,Quanzhou,Not Enrolled,
+322,Kristofer,CSB17897,KRCE,CSE,2,Kharkiv,Enrolled,Pending
+323,Laurie,EEEA1676,KRCT,EEE,1,Hyderabad City,Not Enrolled,
+324,Lloyd,MECHA1768,KRCE,MECH,3,Bronx,Enrolled,Paid
+325,Mario,CIVIA4567,KRCT,CIVIL,3,Lomé,Not Enrolled,
+326,Max,ECB16079,KRCT,ECE,4,Córdoba,Enrolled,Pending
+327,Maxwell,CSB17897,KRCE,CSE,2,Huainan,Not Enrolled,
+328,Mitchell,EEEA1676,KRCT,EEE,1,Doha,Enrolled,Paid
+329,Morris,MECHA1768,KRCE,MECH,3,Kuala Lumpur,Not Enrolled,
+330,Nathaniel,CIVIA4567,KRCT,CIVIL,3,Maputo,Enrolled,Pending
+331,Naveed,ECB16079,KRCT,ECE,4,Kaduna,Not Enrolled,
+332,Neville,CSB17897,KRCE,CSE,2,Gwangju,Enrolled,Paid
+333,Nickolas,EEEA1676,KRCT,EEE,1,Kawanakajima,Not Enrolled,
+334,Piers,MECHA1768,KRCE,MECH,3,San Salvador,Enrolled,Pending
+335,Quentin,CIVIA4567,KRCT,CIVIL,3,Suining,Not Enrolled,
+336,Rennie,ECB16079,KRCT,ECE,4,Lyon,Enrolled,Paid
+337,Reuben,CSB17897,KRCE,CSE,2,Karaj,Not Enrolled,
+338,Riccardo,EEEA1676,KRCT,EEE,1,Kampala,Enrolled,Pending
+339,Roberto,MECHA1768,KRCE,MECH,3,Tabrīz,Not Enrolled,
+340,Ruaraidh,CIVIA4567,KRCT,CIVIL,3,The Hague,Enrolled,Paid
+341,Ruaridh,ECB16079,KRCT,ECE,4,Davao,Not Enrolled,
+342,Stefano,CSB17897,KRCE,CSE,2,Marseille,Enrolled,Pending
+343,Symon,EEEA1676,KRCT,EEE,1,Meerut,Not Enrolled,
+344,Tobias,MECHA1768,KRCE,MECH,3,Mianyang,Enrolled,Paid
+345,Todd,CIVIA4567,KRCT,CIVIL,3,Semarang,Not Enrolled,
+346,Abid,ECB16079,KRCT,ECE,4,Farīdābād,Enrolled,Pending
+347,Adnan,CSB17897,KRCE,CSE,2,Novosibirsk,Not Enrolled,
+348,Aeneas,EEEA1676,KRCT,EEE,1,Mecca,Enrolled,Paid
+349,Aiden,MECHA1768,KRCE,MECH,3,Dubai,Not Enrolled,
+350,Ainslie,CIVIA4567,KRCT,CIVIL,3,Milwaukee,Enrolled,Pending
+351,Ajay,ECB16079,KRCT,ECE,4,Auckland,Not Enrolled,
+352,Alessandro,CSB17897,KRCE,CSE,2,Ma’anshan,Enrolled,Paid
+353,Alyn,EEEA1676,KRCT,EEE,1,Brazzaville,Not Enrolled,
+354,Anderson,MECHA1768,KRCE,MECH,3,Yiyang,Enrolled,Pending
+355,Andre,CIVIA4567,KRCT,CIVIL,3,Vārānasi,Not Enrolled,
+356,Ashok,ECB16079,KRCT,ECE,4,Lubumbashi,Enrolled,Paid
+357,Asif,CSB17897,KRCE,CSE,2,Juárez,Not Enrolled,
+358,Atholl,EEEA1676,KRCT,EEE,1,Ghāziābād,Enrolled,Pending
+359,Bjorn,MECHA1768,KRCE,MECH,3,Pretoria,Not Enrolled,
+360,Brandon,CIVIA4567,KRCT,CIVIL,3,Heze,Enrolled,Paid
+361,Brydon,ECB16079,KRCT,ECE,4,Porto,Not Enrolled,
+362,Bryn,CSB17897,KRCE,CSE,2,Āsansol,Enrolled,Pending
+363,Caine,EEEA1676,KRCT,EEE,1,Lusaka,Not Enrolled,
+364,Calvin,MECHA1768,KRCE,MECH,3,Changzhou,Enrolled,Paid
+365,Carlo,CIVIA4567,KRCT,CIVIL,3,Mosul,Not Enrolled,
+366,Ceri,ECB16079,KRCT,ECE,4,Yekaterinburg,Enrolled,Pending
+367,Chris,CSB17897,KRCE,CSE,2,Peshawar,Not Enrolled,
+368,Christien,EEEA1676,KRCT,EEE,1,Mandalay,Enrolled,Paid
+369,Claudio,MECHA1768,KRCE,MECH,3,Jamshedpur,Not Enrolled,
+370,Clayton,CIVIA4567,KRCT,CIVIL,3,Mbuji-Mayi,Enrolled,Pending
+371,Clint,ECB16079,KRCT,ECE,4,Madura,Not Enrolled,
+372,Connell,CSB17897,KRCE,CSE,2,Adana,Enrolled,Paid
+373,Cyril,EEEA1676,KRCT,EEE,1,Sheffield,Not Enrolled,
+374,Damion,MECHA1768,KRCE,MECH,3,Jabalpur,Enrolled,Pending
+375,Darin,CIVIA4567,KRCT,CIVIL,3,San José,Not Enrolled,
+376,Dario,ECB16079,KRCT,ECE,4,Panama City,Enrolled,Paid
+377,Darroch,CSB17897,KRCE,CSE,2,Nizhniy Novgorod,Not Enrolled,
+378,Deryk,EEEA1676,KRCT,EEE,1,Chifeng,Enrolled,Pending
+379,Dirk,MECHA1768,KRCE,MECH,3,Duisburg,Not Enrolled,
+380,Donovan,CIVIA4567,KRCT,CIVIL,3,Munich,Enrolled,Paid
+381,Dustin,ECB16079,KRCT,ECE,4,Huaiyin,Not Enrolled,
+382,Eamonn,CSB17897,KRCE,CSE,2,Stockholm,Enrolled,Pending
+383,Edgar,EEEA1676,KRCT,EEE,1,Makassar,Not Enrolled,
+384,Elliott,MECHA1768,KRCE,MECH,3,Rājkot,Enrolled,Paid
+385,Elton,CIVIA4567,KRCT,CIVIL,3,Dhanbād,Not Enrolled,
+386,Emlyn,ECB16079,KRCT,ECE,4,Mudanjiang,Enrolled,Pending
+387,Eoghan,CSB17897,KRCE,CSE,2,Geneva,Not Enrolled,
+388,Erlend,EEEA1676,KRCT,EEE,1,Shīrāz,Enrolled,Paid
+389,Farooq,MECHA1768,KRCE,MECH,3,Huzhou,Not Enrolled,
+390,Garth,CIVIA4567,KRCT,CIVIL,3,Beidao,Enrolled,Pending
+391,Geoff,ECB16079,KRCT,ECE,4,Shuangshui,Not Enrolled,
+392,Gerrard,CSB17897,KRCE,CSE,2,Düsseldorf,Enrolled,Paid
+393,Gerry,EEEA1676,KRCT,EEE,1,Gaozhou,Not Enrolled,
+394,Giancarlo,MECHA1768,KRCE,MECH,3,Sevilla,Enrolled,Pending
+395,Gidon,CIVIA4567,KRCT,CIVIL,3,Amritsar,Not Enrolled,
+396,Grierson,ECB16079,KRCT,ECE,4,Vila Velha,Enrolled,Paid
+397,Hamilton,CSB17897,KRCE,CSE,2,Vila Velha,Not Enrolled,
+398,Hans,EEEA1676,KRCT,EEE,1,Almaty,Enrolled,Pending
+399,Hendry,MECHA1768,KRCE,MECH,3,Providence,Not Enrolled,
+400,Howard,CIVIA4567,KRCT,CIVIL,3,Warangal,Enrolled,Paid
+401,Irvine,ECB16079,KRCT,ECE,4,Rosario,Not Enrolled,
+402,Jaimie,CSB17897,KRCE,CSE,2,Allahābād,Enrolled,Pending
+403,Jarad,EEEA1676,KRCT,EEE,1,Benin City,Not Enrolled,
+404,Jayson,MECHA1768,KRCE,MECH,3,Jining,Enrolled,Paid
+405,Jean,CIVIA4567,KRCT,CIVIL,3,Maceió,Not Enrolled,
+406,Jeff,ECB16079,KRCT,ECE,4,Sofia,Enrolled,Pending
+407,Jerome,CSB17897,KRCE,CSE,2,Abbottabad,Not Enrolled,
+408,Joel,EEEA1676,KRCT,EEE,1,Benghazi,Enrolled,Paid
+409,Jude,MECHA1768,KRCE,MECH,3,Cilacap,Not Enrolled,
+410,Kane,CIVIA4567,KRCT,CIVIL,3,Prague,Enrolled,Pending
+411,Karan,ECB16079,KRCT,ECE,4,Glasgow,Not Enrolled,
+412,Karim,CSB17897,KRCE,CSE,2,Leshan,Enrolled,Paid
+413,Kashif,EEEA1676,KRCT,EEE,1,Jacksonville,Not Enrolled,
+414,Keiran,MECHA1768,KRCE,MECH,3,Ouagadougou,Enrolled,Pending
+415,Kendon,CIVIA4567,KRCT,CIVIL,3,Ottawa,Not Enrolled,
+416,Kent,ECB16079,KRCT,ECE,4,Adelaide,Enrolled,Paid
+417,Kwok,CSB17897,KRCE,CSE,2,Shangrao,Not Enrolled,
+418,Laith,EEEA1676,KRCT,EEE,1,Torreón,Enrolled,Pending
+419,Lauchlan,MECHA1768,KRCE,MECH,3,Srīnagar,Not Enrolled,
+420,Leo,CIVIA4567,KRCT,CIVIL,3,Bezwāda,Enrolled,Paid
+421,Leyton,ECB16079,KRCT,ECE,4,Samara,Not Enrolled,
+422,Lindsey,CSB17897,KRCE,CSE,2,Omsk,Enrolled,Pending
+423,Logan,EEEA1676,KRCT,EEE,1,Newcastle,Not Enrolled,
+424,Lorn,MECHA1768,KRCE,MECH,3,Yulin,Enrolled,Paid
+425,Lyle,CIVIA4567,KRCT,CIVIL,3,Namp’o,Not Enrolled,
+426,Mason,ECB16079,KRCT,ECE,4,Xianyang,Enrolled,Pending
+427,Mervyn,CSB17897,KRCE,CSE,2,Cagayan de Oro,Not Enrolled,
+428,Michel,EEEA1676,KRCT,EEE,1,Cần Thơ,Enrolled,Paid
+429,Mubarak,MECHA1768,KRCE,MECH,3,Barquisimeto,Not Enrolled,
+430,Mungo,CIVIA4567,KRCT,CIVIL,3,Helsinki,Enrolled,Pending
+431,Murdoch,ECB16079,KRCT,ECE,4,Kazan’,Not Enrolled,
+432,Nathanael,CSB17897,KRCE,CSE,2,Aurangābād,Enrolled,Paid
+433,Neall,EEEA1676,KRCT,EEE,1,Calgary,Not Enrolled,
+434,Nickie,MECHA1768,KRCE,MECH,3,Ciudad Nezahualcóyotl,Enrolled,Pending
+435,Nicky,CIVIA4567,KRCT,CIVIL,3,Zürich,Not Enrolled,
+436,Nikki,ECB16079,KRCT,ECE,4,Baoding,Enrolled,Paid
+437,Nikolas,CSB17897,KRCE,CSE,2,Zigong,Not Enrolled,
+438,Paolo,EEEA1676,KRCT,EEE,1,Sharjah,Enrolled,Pending
+439,Perry,MECHA1768,KRCE,MECH,3,Yerevan,Not Enrolled,
+440,Ranald,CIVIA4567,KRCT,CIVIL,3,Mogadishu,Enrolled,Paid
+441,Rehan,ECB16079,KRCT,ECE,4,Tbilisi,Not Enrolled,
+442,Ricky,CSB17897,KRCE,CSE,2,Ankang,Enrolled,Pending
+443,Rikki,EEEA1676,KRCT,EEE,1,Huambo,Not Enrolled,
+444,Ritchie,MECHA1768,KRCE,MECH,3,Ikare,Enrolled,Paid
+445,Rizwan,CIVIA4567,KRCT,CIVIL,3,Belgrade,Not Enrolled,
+446,Robertson,ECB16079,KRCT,ECE,4,Salt Lake City,Enrolled,Pending
+447,Roderic,CSB17897,KRCE,CSE,2,Bhilai,Not Enrolled,
+448,Rolf,EEEA1676,KRCT,EEE,1,Jinhua,Enrolled,Paid
+449,Ronan,MECHA1768,KRCE,MECH,3,Chelyabinsk,Not Enrolled,
+450,Rowland,CIVIA4567,KRCT,CIVIL,3,Natal,Enrolled,Pending
+451,Sam,ECB16079,KRCT,ECE,4,Dushanbe,Not Enrolled,
+452,Scotland,CSB17897,KRCE,CSE,2,Copenhagen,Enrolled,Paid
+453,Seth,EEEA1676,KRCT,EEE,1,Changwon,Not Enrolled,
+454,Shahid,MECHA1768,KRCE,MECH,3,Zhuzhou,Enrolled,Pending
+455,Shakeel,CIVIA4567,KRCT,CIVIL,3,Suwon,Not Enrolled,
+456,Sidney,ECB16079,KRCT,ECE,4,Nashville,Enrolled,Paid
+457,Sinclair,CSB17897,KRCE,CSE,2,Vereeniging,Not Enrolled,
+458,Sonny,EEEA1676,KRCT,EEE,1,Xiangyang,Enrolled,Pending
+459,Taylor,MECHA1768,KRCE,MECH,3,Memphis,Not Enrolled,
+460,Tin,CIVIA4567,KRCT,CIVIL,3,Ulsan,Enrolled,Paid
+461,Tomas,ECB16079,KRCT,ECE,4,Amman,Not Enrolled,
+462,Travis,CSB17897,KRCE,CSE,2,Mizhou,Enrolled,Pending
+463,Tristan,EEEA1676,KRCT,EEE,1,Richmond,Not Enrolled,
+464,Vernon,MECHA1768,KRCE,MECH,3,Dublin,Enrolled,Paid
+465,Vince,CIVIA4567,KRCT,CIVIL,3,Edmonton,Not Enrolled,
+466,Waheed,ECB16079,KRCT,ECE,4,Solāpur,Enrolled,Pending
+467,Waseem,CSB17897,KRCE,CSE,2,Rostov-na-Donu,Not Enrolled,
+468,Wei,EEEA1676,KRCT,EEE,1,Dnipro,Enrolled,Paid
+469,Wilson,MECHA1768,KRCE,MECH,3,Xining,Not Enrolled,
+470,Yan,CIVIA4567,KRCT,CIVIL,3,Zhangjiakou,Enrolled,Pending
+471,Zak,ECB16079,KRCT,ECE,4,Lille,Not Enrolled,
+472,Aamir,CSB17897,KRCE,CSE,2,Ranchi,Enrolled,Paid
+473,Abdullahi,EEEA1676,KRCT,EEE,1,Gaziantep,Not Enrolled,
+474,Abdulrazak,MECHA1768,KRCE,MECH,3,Monrovia,Enrolled,Pending
+475,Abraham,CIVIA4567,KRCT,CIVIL,3,São Luís,Not Enrolled,
+476,Adebayo,ECB16079,KRCT,ECE,4,Amsterdam,Enrolled,Paid
+477,Adel,CSB17897,KRCE,CSE,2,Jerusalem,Not Enrolled,
+478,Adrain,EEEA1676,KRCT,EEE,1,New Orleans,Enrolled,Pending
+479,Adriano,MECHA1768,KRCE,MECH,3,Guatemala City,Not Enrolled,
+480,Ahmad,CIVIA4567,KRCT,CIVIL,3,Zhuhai,Enrolled,Paid
+481,Ahmed,ECB16079,KRCT,ECE,4,Florianópolis,Not Enrolled,
+482,Aidon,CSB17897,KRCE,CSE,2,Port Elizabeth,Enrolled,Pending
+483,Ajeet,EEEA1676,KRCT,EEE,1,Jiamusi,Not Enrolled,
+484,Al-Motamid,MECHA1768,KRCE,MECH,3,Port Harcourt,Enrolled,Paid
+485,Alaistair,CIVIA4567,KRCT,CIVIL,3,Raleigh,Not Enrolled,
+486,Alberto,ECB16079,KRCT,ECE,4,Ufa,Enrolled,Pending
+487,Aldo,CSB17897,KRCE,CSE,2,Hengyang,Not Enrolled,
+488,Aldous,EEEA1676,KRCT,EEE,1,Benxi,Enrolled,Paid
+489,Alen,MECHA1768,KRCE,MECH,3,Louisville,Not Enrolled,
+490,Alexandre,CIVIA4567,KRCT,CIVIL,3,Haifa,Enrolled,Pending
+491,Alfredo,ECB16079,KRCT,ECE,4,Medina,Not Enrolled,
+492,Alisteir,CSB17897,KRCE,CSE,2,Bucaramanga,Enrolled,Paid
+493,Allon,EEEA1676,KRCT,EEE,1,Maracay,Not Enrolled,
+494,Alton,MECHA1768,KRCE,MECH,3,Rotterdam,Enrolled,Pending
+495,Alwyn,CIVIA4567,KRCT,CIVIL,3,Homs,Not Enrolled,
+496,Aman,ECB16079,KRCT,ECE,4,Cologne,Enrolled,Paid
+497,Amanda,CSB17897,KRCE,CSE,2,Qinhuangdao,Not Enrolled,
+498,Amato,EEEA1676,KRCT,EEE,1,Fès,Enrolled,Pending
+499,Amir,MECHA1768,KRCE,MECH,3,N’Djamena,Not Enrolled,
+500,Amit,CIVIA4567,KRCT,CIVIL,3,Tegucigalpa,Enrolled,Paid
+501,Amitabha,ECB16079,KRCT,ECE,4,Kingston,Not Enrolled,
+502,Amos,CSB17897,KRCE,CSE,2,Nay Pyi Taw,Enrolled,Pending
+503,Anand,EEEA1676,KRCT,EEE,1,Djibouti,Not Enrolled,
+504,Anant,MECHA1768,KRCE,MECH,3,Managua,Enrolled,Paid
+505,Anastasi,CIVIA4567,KRCT,CIVIL,3,Niamey,Not Enrolled,
+506,Anastasio,ECB16079,KRCT,ECE,4,Tirana,Enrolled,Pending
+507,Anastasios,CSB17897,KRCE,CSE,2,Kathmandu,Not Enrolled,
+508,Andres,EEEA1676,KRCT,EEE,1,Ulaanbaatar,Enrolled,Paid
+509,Angel,MECHA1768,KRCE,MECH,3,Kigali,Not Enrolled,
+510,Angelo,CIVIA4567,KRCT,CIVIL,3,Bishkek,Enrolled,Pending
+511,Anil,ECB16079,KRCT,ECE,4,Oslo,Not Enrolled,
+512,Anjam,CSB17897,KRCE,CSE,2,Bangui,Enrolled,Paid
+513,Anjum,EEEA1676,KRCT,EEE,1,Freetown,Not Enrolled,
+514,Ann,MECHA1768,KRCE,MECH,3,Islamabad,Enrolled,Pending
+515,Antonius,CIVIA4567,KRCT,CIVIL,3,Cotonou,Not Enrolled,
+516,Anwar,ECB16079,KRCT,ECE,4,Vientiane,Enrolled,Paid
+517,Aonghas,CSB17897,KRCE,CSE,2,Riga,Not Enrolled,
+518,Aonghus,EEEA1676,KRCT,EEE,1,Nouakchott,Enrolled,Pending
+519,Aqif,MECHA1768,KRCE,MECH,3,Muscat,Not Enrolled,
+520,Ardene,CIVIA4567,KRCT,CIVIL,3,Ashgabat,Enrolled,Paid
+521,Ardle,ECB16079,KRCT,ECE,4,Zagreb,Not Enrolled,
+522,Ari,CSB17897,KRCE,CSE,2,Sarajevo,Enrolled,Pending
+523,Arif,EEEA1676,KRCT,EEE,1,Chisinau,Not Enrolled,
+524,Arlyn,MECHA1768,KRCE,MECH,3,Lilongwe,Enrolled,Paid
+525,Armando,CIVIA4567,KRCT,CIVIL,3,Asmara,Not Enrolled,
+526,Armond,ECB16079,KRCT,ECE,4,Abu Dhabi,Enrolled,Pending
+527,Arne,CSB17897,KRCE,CSE,2,Port Louis,Not Enrolled,
+528,Arnout,EEEA1676,KRCT,EEE,1,Libreville,Enrolled,Paid
+529,Arol,MECHA1768,KRCE,MECH,3,Manama,Not Enrolled,
+530,Aron,CIVIA4567,KRCT,CIVIL,3,Vilnius,Enrolled,Pending
+531,Aroon,ECB16079,KRCT,ECE,4,Skopje,Not Enrolled,
+532,Arshid,CSB17897,KRCE,CSE,2,Bloemfontein,Enrolled,Paid
+533,Arvid,EEEA1676,KRCT,EEE,1,Bratislava,Not Enrolled,
+534,Arvind,MECHA1768,KRCE,MECH,3,Bissau,Enrolled,Pending
+535,Asa,CIVIA4567,KRCT,CIVIL,3,Tallinn,Not Enrolled,
+536,Asad,ECB16079,KRCT,ECE,4,Wellington,Enrolled,Paid
+537,Asaf,CSB17897,KRCE,CSE,2,Valletta,Not Enrolled,
+538,Asam,EEEA1676,KRCT,EEE,1,Maseru,Enrolled,Pending
+539,Ashiqhusein,MECHA1768,KRCE,MECH,3,Nur-Sultan,Not Enrolled,
+540,Ashwani,CIVIA4567,KRCT,CIVIL,3,Bujumbura,Enrolled,Paid
+541,Asrar,ECB16079,KRCT,ECE,4,Canberra,Not Enrolled,
+542,Athol,CSB17897,KRCE,CSE,2,New Delhi,Enrolled,Pending
+543,Avees,EEEA1676,KRCT,EEE,1,Ljubljana,Not Enrolled,
+544,Ayham,MECHA1768,KRCE,MECH,3,Porto-Novo,Enrolled,Paid
+545,Ayokoladele,CIVIA4567,KRCT,CIVIL,3,Bandar Seri Begawan,Not Enrolled,
+546,Ayron,ECB16079,KRCT,ECE,4,Port of Spain,Enrolled,Pending
+547,Azzam,CSB17897,KRCE,CSE,2,Port Moresby,Not Enrolled,
+548,Balfour,EEEA1676,KRCT,EEE,1,Bern,Enrolled,Paid
+549,Balraj,MECHA1768,KRCE,MECH,3,Windhoek,Not Enrolled,
+550,Barbara,CIVIA4567,KRCT,CIVIL,3,Georgetown,Enrolled,Pending
+551,Barnabas,ECB16079,KRCT,ECE,4,Paramaribo,Not Enrolled,
+552,Barron,CSB17897,KRCE,CSE,2,Dili,Enrolled,Paid
+553,Bartholomew,EEEA1676,KRCT,EEE,1,Nassau,Not Enrolled,
+554,Basil,MECHA1768,KRCE,MECH,3,Sucre,Enrolled,Pending
+555,Bassam,CIVIA4567,KRCT,CIVIL,3,Nicosia,Not Enrolled,
+556,Bayne,ECB16079,KRCT,ECE,4,Dodoma,Enrolled,Paid
+557,Ben-John,CSB17897,KRCE,CSE,2,Colombo,Not Enrolled,
+558,Bengiman,EEEA1676,KRCT,EEE,1,Gaborone,Enrolled,Pending
+559,Benoit,MECHA1768,KRCE,MECH,3,Yamoussoukro,Not Enrolled,
+560,Bernardo,CIVIA4567,KRCT,CIVIL,3,Bridgetown,Enrolled,Paid
+561,Bevan,ECB16079,KRCT,ECE,4,Suva,Not Enrolled,
+562,Bill,CSB17897,KRCE,CSE,2,Reykjavík,Enrolled,Pending
+563,Bllal,EEEA1676,KRCT,EEE,1,Malabo,Not Enrolled,
+564,Blythe,MECHA1768,KRCE,MECH,3,Willemstad,Enrolled,Paid
+565,Bobby,CIVIA4567,KRCT,CIVIL,3,Podgorica,Not Enrolled,
+566,Brad,ECB16079,KRCT,ECE,4,Moroni,Enrolled,Pending
+567,Brant,CSB17897,KRCE,CSE,2,Sri Jayewardenepura Kotte,Not Enrolled,
+568,Brook,EEEA1676,KRCT,EEE,1,Praia,Enrolled,Paid
+569,Bryden,MECHA1768,KRCE,MECH,3,Male,Not Enrolled,
+570,Byram,CIVIA4567,KRCT,CIVIL,3,Juba,Enrolled,Pending
+571,Byron,ECB16079,KRCT,ECE,4,Luxembourg,Not Enrolled,
+572,Caleb,CSB17897,KRCE,CSE,2,Thimphu,Enrolled,Paid
+573,Callam,EEEA1676,KRCT,EEE,1,Mbabane,Not Enrolled,
+574,Carey,MECHA1768,KRCE,MECH,3,São Tomé,Enrolled,Pending
+575,Carol,CIVIA4567,KRCT,CIVIL,3,Honiara,Not Enrolled,
+576,Carreen,ECB16079,KRCT,ECE,4,Oranjestad,Enrolled,Paid
+577,Cary,CSB17897,KRCE,CSE,2,Apia,Not Enrolled,
+578,Casey,EEEA1676,KRCT,EEE,1,Andorra la Vella,Enrolled,Pending
+579,Cathorne,MECHA1768,KRCE,MECH,3,Kingstown,Not Enrolled,
+580,Chae,CIVIA4567,KRCT,CIVIL,3,Port-Vila,Enrolled,Paid
+581,Charanjeev,ECB16079,KRCT,ECE,4,Banjul,Not Enrolled,
+582,Che,CSB17897,KRCE,CSE,2,Nuku‘alofa,Enrolled,Pending
+583,Chee,EEEA1676,KRCT,EEE,1,Castries,Not Enrolled,
+584,Chi,MECHA1768,KRCE,MECH,3,Monaco,Enrolled,Paid
+585,Chincdu,CIVIA4567,KRCT,CIVIL,3,Vaduz,Not Enrolled,
+586,Christan,ECB16079,KRCT,ECE,4,Saint John’s,Enrolled,Pending
+587,Christie,CSB17897,KRCE,CSE,2,Saint George’s,Not Enrolled,
+588,Christos,EEEA1676,KRCT,EEE,1,Victoria,Enrolled,Paid
+589,Chrys,MECHA1768,KRCE,MECH,3,San Marino,Not Enrolled,
+590,Chu,CIVIA4567,KRCT,CIVIL,3,Tarawa,Enrolled,Pending
+591,Churnthoor,ECB16079,KRCT,ECE,4,Majuro,Not Enrolled,
+592,Ciaran,CSB17897,KRCE,CSE,2,Roseau,Enrolled,Paid
+593,Ciaron,EEEA1676,KRCT,EEE,1,Basseterre,Not Enrolled,
+594,Ciobhan,MECHA1768,KRCE,MECH,3,Belmopan,Enrolled,Pending
+595,Claus,CIVIA4567,KRCT,CIVIL,3,Pago Pago,Not Enrolled,
+596,Cliff,ECB16079,KRCT,ECE,4,Lobamba,Enrolled,Paid
+597,Clinton,CSB17897,KRCE,CSE,2,Funafuti,Not Enrolled,
+598,Colan,EEEA1676,KRCT,EEE,1,Palikir,Enrolled,Pending
+599,Coll,MECHA1768,KRCE,MECH,3,Capitol Hill,Not Enrolled,
+600,Collin,CIVIA4567,KRCT,CIVIL,3,Hagåtña,Enrolled,Paid
+601,Colum,ECB16079,KRCT,ECE,4,Al Quds,Not Enrolled,
+602,Con,CSB17897,KRCE,CSE,2,Philipsburg,Enrolled,Pending
+603,Connor,EEEA1676,KRCT,EEE,1,Gitega,Not Enrolled,
+604,Corey,MECHA1768,KRCE,MECH,3,Pristina,Enrolled,Paid
+605,Corin,CIVIA4567,KRCT,CIVIL,3,Ngerulmud,Not Enrolled,
+606,Cormac,ECB16079,KRCT,ECE,4,Aden,Enrolled,Pending
+607,Corren,CSB17897,KRCE,CSE,2,Cochabamba,Not Enrolled,
+608,Cowan,EEEA1676,KRCT,EEE,1,Yongzhou,Enrolled,Paid
+609,Craige,MECHA1768,KRCE,MECH,3,Baoshan,Not Enrolled,
+610,Cullen,CIVIA4567,KRCT,CIVIL,3,Quảng Hà,Enrolled,Pending
+611,Daiman,ECB16079,KRCT,ECE,4,Kitaku,Not Enrolled,
+612,Daljit,CSB17897,KRCE,CSE,2,Perm’,Enrolled,Paid
+613,Dall,EEEA1676,KRCT,EEE,1,Ahvāz,Not Enrolled,
+614,Dameon,MECHA1768,KRCE,MECH,3,Jodhpur,Enrolled,Pending
+615,Damyon,CIVIA4567,KRCT,CIVIL,3,San Luis Potosí,Not Enrolled,
+616,Danga,ECB16079,KRCT,ECE,4,Odesa,Enrolled,Paid
+617,Danielle,CSB17897,KRCE,CSE,2,Yinchuan,Not Enrolled,
+618,Darius,EEEA1676,KRCT,EEE,1,Jiaxing,Enrolled,Pending
+619,Daron,MECHA1768,KRCE,MECH,3,Joinvile,Not Enrolled,
+620,Darrel,CIVIA4567,KRCT,CIVIL,3,Donets’k,Enrolled,Paid
+621,Darrell,ECB16079,KRCT,ECE,4,Guilin,Not Enrolled,
+622,Darryll,CSB17897,KRCE,CSE,2,Dahūk,Enrolled,Pending
+623,Darryn,EEEA1676,KRCT,EEE,1,Volgograd,Not Enrolled,
+624,Davide,MECHA1768,KRCE,MECH,3,Guwāhāti,Enrolled,Paid
+625,Davidson,CIVIA4567,KRCT,CIVIL,3,Yichun,Not Enrolled,
+626,Davinder,ECB16079,KRCT,ECE,4,Yangquan,Enrolled,Pending
+627,Davud,CSB17897,KRCE,CSE,2,Natal,Not Enrolled,
+628,Davyd,EEEA1676,KRCT,EEE,1,Chandigarh,Enrolled,Paid
+629,Dawson,MECHA1768,KRCE,MECH,3,Gwalior,Not Enrolled,
+630,Dax,CIVIA4567,KRCT,CIVIL,3,Hamamatsu,Enrolled,Pending
+631,Del,ECB16079,KRCT,ECE,4,Qom,Not Enrolled,
+632,Dell,CSB17897,KRCE,CSE,2,Jixi,Enrolled,Paid
+633,Denver,EEEA1676,KRCT,EEE,1,Mérida,Not Enrolled,
+634,Dermot,MECHA1768,KRCE,MECH,3,Xin’an,Enrolled,Pending
+635,Derry,CIVIA4567,KRCT,CIVIL,3,Querétaro,Not Enrolled,
+636,Derryl,ECB16079,KRCT,ECE,4,Pingxiang,Enrolled,Paid
+637,Derryn,CSB17897,KRCE,CSE,2,João Pessoa,Not Enrolled,
+638,Diarmid,EEEA1676,KRCT,EEE,1,Klang,Enrolled,Pending
+639,Diauddin,MECHA1768,KRCE,MECH,3,Jinzhou,Not Enrolled,
+640,Dick,CIVIA4567,KRCT,CIVIL,3,Oklahoma City,Enrolled,Paid
+641,Diego,ECB16079,KRCT,ECE,4,Salerno,Not Enrolled,
+642,Dino,CSB17897,KRCE,CSE,2,Thiruvananthapuram,Enrolled,Pending
+643,Dion,EEEA1676,KRCT,EEE,1,Calicut,Not Enrolled,
+644,Dolan,MECHA1768,KRCE,MECH,3,Trichinopoly,Enrolled,Paid
+645,Domenico,CIVIA4567,KRCT,CIVIL,3,Ogbomoso,Not Enrolled,
+646,Domenyk,ECB16079,KRCT,ECE,4,General Santos,Enrolled,Pending
+647,Donn,CSB17897,KRCE,CSE,2,Huế,Not Enrolled,
+648,Donnie,EEEA1676,KRCT,EEE,1,Bacolod,Enrolled,Paid
+649,Donny,MECHA1768,KRCE,MECH,3,Nantong,Not Enrolled,
+650,Dorian,CIVIA4567,KRCT,CIVIL,3,Foshan,Enrolled,Pending
+651,Dorino,ECB16079,KRCT,ECE,4,Sŏngnam,Not Enrolled,
+652,Dougal,CSB17897,KRCE,CSE,2,Bridgeport,Enrolled,Paid
+653,Dowell,EEEA1676,KRCT,EEE,1,Nice,Not Enrolled,
+654,Duane,MECHA1768,KRCE,MECH,3,Buffalo,Enrolled,Pending
+655,Dugald,CIVIA4567,KRCT,CIVIL,3,Erbil,Not Enrolled,
+656,Dulip,ECB16079,KRCT,ECE,4,Krasnoyarsk,Enrolled,Paid
+657,Dylaan,CSB17897,KRCE,CSE,2,Olinda,Not Enrolled,
+658,Eamon,EEEA1676,KRCT,EEE,1,Antwerp,Enrolled,Pending
+659,Ean,MECHA1768,KRCE,MECH,3,Konya,Not Enrolled,
+660,Earl,CIVIA4567,KRCT,CIVIL,3,Bogor,Enrolled,Paid
+661,Eben,ECB16079,KRCT,ECE,4,Hartford,Not Enrolled,
+662,Edoardino,CSB17897,KRCE,CSE,2,Huaibei,Enrolled,Pending
+663,Efeoni,EEEA1676,KRCT,EEE,1,Xinyu,Not Enrolled,
+664,Egidio,MECHA1768,KRCE,MECH,3,Teresina,Enrolled,Paid
+665,Eiichi,CIVIA4567,KRCT,CIVIL,3,Naha,Not Enrolled,
+666,El,ECB16079,KRCT,ECE,4,Goyang,Enrolled,Pending
+667,Elgin,CSB17897,KRCE,CSE,2,Nangandao,Not Enrolled,
+668,Ellis,EEEA1676,KRCT,EEE,1,Yibin,Enrolled,Paid
+669,Eloson,MECHA1768,KRCE,MECH,3,Aba,Not Enrolled,
+670,Emmanuel,CIVIA4567,KRCT,CIVIL,3,Maiduguri,Enrolled,Pending
+671,Emran,ECB16079,KRCT,ECE,4,Az Zarqā’,Not Enrolled,
+672,Emrys,CSB17897,KRCE,CSE,2,Tarsus,Enrolled,Paid
+673,Eoghann,EEEA1676,KRCT,EEE,1,Bengbu,Not Enrolled,
+674,Erkan,MECHA1768,KRCE,MECH,3,Mendoza,Enrolled,Pending
+675,Erl,CIVIA4567,KRCT,CIVIL,3,Hubli,Not Enrolled,
+676,Ernest,ECB16079,KRCT,ECE,4,Concepción,Enrolled,Paid
+677,Erwin,CSB17897,KRCE,CSE,2,Zaria,Not Enrolled,
+678,Esmond,EEEA1676,KRCT,EEE,1,Dengtalu,Enrolled,Pending
+679,Ewing,MECHA1768,KRCE,MECH,3,Cartagena,Not Enrolled,
+680,Fabio,CIVIA4567,KRCT,CIVIL,3,Mysore,Enrolled,Paid
+681,Feargus,ECB16079,KRCT,ECE,4,Mexicali,Not Enrolled,
+682,Felix,CSB17897,KRCE,CSE,2,Tongliao,Enrolled,Pending
+683,Ferzund,EEEA1676,KRCT,EEE,1,Mombasa,Not Enrolled,
+684,Finbar,MECHA1768,KRCE,MECH,3,Newcastle upon Tyne,Enrolled,Paid
+685,Finley,CIVIA4567,KRCT,CIVIL,3,Novo Hamburgo,Not Enrolled,
+686,Fionn,ECB16079,KRCT,ECE,4,Callao,Enrolled,Pending
+687,Francesco,CSB17897,KRCE,CSE,2,Bilbao,Not Enrolled,
+688,Francisco,EEEA1676,KRCT,EEE,1,Johor Bahru,Enrolled,Paid
+689,Francois,MECHA1768,KRCE,MECH,3,Raipur,Not Enrolled,
+690,Frankie,CIVIA4567,KRCT,CIVIL,3,Xiaoxita,Enrolled,Pending
+691,Frazier,ECB16079,KRCT,ECE,4,Fort Worth,Not Enrolled,
+692,Fu,CSB17897,KRCE,CSE,2,Salem,Enrolled,Paid
+693,Gabriel,EEEA1676,KRCT,EEE,1,Yangjiang,Not Enrolled,
+694,Galen,MECHA1768,KRCE,MECH,3,Marrakech,Enrolled,Pending
+695,Gallvin,CIVIA4567,KRCT,CIVIL,3,Kaifeng Chengguanzhen,Not Enrolled,
+696,Gardner,ECB16079,KRCT,ECE,4,Dandong,Enrolled,Paid
+697,Garreth,CSB17897,KRCE,CSE,2,Al Başrah,Not Enrolled,
+698,Garry-John,EEEA1676,KRCT,EEE,1,Aguascalientes,Enrolled,Pending
+699,Gawad,MECHA1768,KRCE,MECH,3,Tucson,Not Enrolled,
+700,Geore,CIVIA4567,KRCT,CIVIL,3,Okayama,Enrolled,Paid
+701,Georges,ECB16079,KRCT,ECE,4,Bucheon,Not Enrolled,
+702,Georgio,CSB17897,KRCE,CSE,2,Xuanzhou,Enrolled,Pending
+703,Gerarde,EEEA1676,KRCT,EEE,1,Bandar Lampung,Not Enrolled,
+704,Gerhard,MECHA1768,KRCE,MECH,3,Rizhao,Enrolled,Paid
+705,Gethin,CIVIA4567,KRCT,CIVIL,3,Palermo,Not Enrolled,
+706,Ghassan,ECB16079,KRCT,ECE,4,Caerdydd,Enrolled,Pending
+707,Gianni,CSB17897,KRCE,CSE,2,Tampico,Not Enrolled,
+708,Gillan,EEEA1676,KRCT,EEE,1,Jiaozuo,Enrolled,Paid
+709,Gilmour,MECHA1768,KRCE,MECH,3,Padang,Not Enrolled,
+710,Ginno,CIVIA4567,KRCT,CIVIL,3,Jalandhar,Enrolled,Pending
+711,Gino,ECB16079,KRCT,ECE,4,Zhenjiang,Not Enrolled,
+712,Giovanni,CSB17897,KRCE,CSE,2,Valparaíso,Enrolled,Paid
+713,Glynn,EEEA1676,KRCT,EEE,1,Pingdingshan,Not Enrolled,
+714,Godfrey,MECHA1768,KRCE,MECH,3,Zunyi,Enrolled,Pending
+715,Grainger,CIVIA4567,KRCT,CIVIL,3,Anshun,Not Enrolled,
+716,Greggory,ECB16079,KRCT,ECE,4,Toulouse,Enrolled,Paid
+717,Gren,CSB17897,KRCE,CSE,2,El Paso,Not Enrolled,
+718,Grigor,EEEA1676,KRCT,EEE,1,Iguaçu,Enrolled,Pending
+719,Guido,MECHA1768,KRCE,MECH,3,Bhubaneshwar,Not Enrolled,
+720,Gurbal,CIVIA4567,KRCT,CIVIL,3,Voronezh,Enrolled,Paid
+721,Gurchinchel,ECB16079,KRCT,ECE,4,Saratov,Not Enrolled,
+722,Gurhimmat,CSB17897,KRCE,CSE,2,Yuci,Enrolled,Pending
+723,Gurjeet,EEEA1676,KRCT,EEE,1,Yancheng,Not Enrolled,
+724,Gurkimat,MECHA1768,KRCE,MECH,3,Cuernavaca,Enrolled,Paid
+725,Gurmeet,CIVIA4567,KRCT,CIVIL,3,Linfen,Not Enrolled,
+726,Gurvinder,ECB16079,KRCT,ECE,4,Honolulu,Enrolled,Pending
+727,Gustavus,CSB17897,KRCE,CSE,2,Warri,Not Enrolled,
+728,Gwion,EEEA1676,KRCT,EEE,1,Basel,Enrolled,Paid
+729,Haitham,MECHA1768,KRCE,MECH,3,San Miguel de Tucumán,Not Enrolled,
+730,Hani,CIVIA4567,KRCT,CIVIL,3,Kermānshāh,Enrolled,Pending
+731,Hardeep,ECB16079,KRCT,ECE,4,Thessaloníki,Not Enrolled,
+732,Hassan,CSB17897,KRCE,CSE,2,Omaha,Enrolled,Paid
+733,Hatim,EEEA1676,KRCT,EEE,1,Kota,Not Enrolled,
+734,Heather,MECHA1768,KRCE,MECH,3,Braga,Enrolled,Pending
+735,Hedley,CIVIA4567,KRCT,CIVIL,3,Jhānsi,Not Enrolled,
+736,Hilton,ECB16079,KRCT,ECE,4,Rongjiawan,Enrolled,Paid
+737,Himesh,CSB17897,KRCE,CSE,2,Nottingham,Not Enrolled,
+738,Hitesh,EEEA1676,KRCT,EEE,1,Agadir,Enrolled,Pending
+739,Hoi-Yuen,MECHA1768,KRCE,MECH,3,Butterworth,Not Enrolled,
+740,Hoy,CIVIA4567,KRCT,CIVIL,3,Bareilly,Enrolled,Paid
+741,Hsin,ECB16079,KRCT,ECE,4,Jos,Not Enrolled,
+742,Hui,CSB17897,KRCE,CSE,2,Xingyi,Enrolled,Pending
+743,Hussain,EEEA1676,KRCT,EEE,1,Cebu City,Not Enrolled,
+744,Hytham,MECHA1768,KRCE,MECH,3,Arequipa,Enrolled,Paid
+745,Ifeatu,CIVIA4567,KRCT,CIVIL,3,Liverpool,Not Enrolled,
+746,Iffor,ECB16079,KRCT,ECE,4,Wuhu,Enrolled,Pending
+747,Ilya,CSB17897,KRCE,CSE,2,Langfang,Not Enrolled,
+748,Imeobong,EEEA1676,KRCT,EEE,1,Rājshāhi,Enrolled,Paid
+749,Imtiaz,MECHA1768,KRCE,MECH,3,Zhaotong,Not Enrolled,
+750,Iqbal,CIVIA4567,KRCT,CIVIL,3,Culiacán,Enrolled,Pending
+751,Isaac,ECB16079,KRCT,ECE,4,Valencia,Not Enrolled,
+752,Isabirye,CSB17897,KRCE,CSE,2,Lingyuan,Enrolled,Paid
+753,Ishar,EEEA1676,KRCT,EEE,1,Cuiabá,Not Enrolled,
+754,Islay,MECHA1768,KRCE,MECH,3,Quy Nhơn,Enrolled,Pending
+755,Ivy,CIVIA4567,KRCT,CIVIL,3,Malang,Not Enrolled,
+756,Jackie,ECB16079,KRCT,ECE,4,Alīgarh,Enrolled,Paid
+757,Jackson,CSB17897,KRCE,CSE,2,L’viv,Not Enrolled,
+758,Jaco,EEEA1676,KRCT,EEE,1,Bordeaux,Enrolled,Pending
+759,Jade,MECHA1768,KRCE,MECH,3,McAllen,Not Enrolled,
+760,Jagan,CIVIA4567,KRCT,CIVIL,3,Baojishi,Enrolled,Paid
+761,Jagdeep,ECB16079,KRCT,ECE,4,Pekanbaru,Not Enrolled,
+762,Janet,CSB17897,KRCE,CSE,2,Oran,Enrolled,Pending
+763,Jardine,EEEA1676,KRCT,EEE,1,Yingkou,Not Enrolled,
+764,Jarno,MECHA1768,KRCE,MECH,3,Bhiwandi,Enrolled,Paid
+765,Jasbir,CIVIA4567,KRCT,CIVIL,3,Liaoyang,Not Enrolled,
+766,Jasen,ECB16079,KRCT,ECE,4,Chihuahua,Enrolled,Pending
+767,Jasjeet,CSB17897,KRCE,CSE,2,Jammu,Not Enrolled,
+768,Jaspal,EEEA1676,KRCT,EEE,1,Melaka,Enrolled,Paid
+769,Jaspar,MECHA1768,KRCE,MECH,3,Zaporizhzhya,Not Enrolled,
+770,Jatinder,CIVIA4567,KRCT,CIVIL,3,Morādābād,Enrolled,Pending
+771,Javaid,ECB16079,KRCT,ECE,4,Antalya,Not Enrolled,
+772,Jean-Baptiste,CSB17897,KRCE,CSE,2,Al Ḩudaydah,Enrolled,Paid
+773,Jedd,EEEA1676,KRCT,EEE,1,Campo Grande,Not Enrolled,
+774,Jeffery,MECHA1768,KRCE,MECH,3,Shaoxing,Enrolled,Pending
+775,Jeremiah,CIVIA4567,KRCT,CIVIL,3,Yichun,Not Enrolled,
+776,Jeroen-Hans,ECB16079,KRCT,ECE,4,Mangalore,Enrolled,Paid
+777,Jerry,CSB17897,KRCE,CSE,2,Wuppertal,Not Enrolled,
+778,Jesse,EEEA1676,KRCT,EEE,1,Cheongju,Enrolled,Pending
+779,Jim,MECHA1768,KRCE,MECH,3,Zamboanga City,Not Enrolled,
+780,Jimmy,CIVIA4567,KRCT,CIVIL,3,Hamhŭng,Enrolled,Paid
+781,Jimsheed,ECB16079,KRCT,ECE,4,Fuyang,Not Enrolled,
+782,Joao,CSB17897,KRCE,CSE,2,Ilorin,Enrolled,Pending
+783,Jodie,EEEA1676,KRCT,EEE,1,Saarbrücken,Not Enrolled,
+784,Joe,MECHA1768,KRCE,MECH,3,Fuxin,Enrolled,Paid
+785,Johan,CIVIA4567,KRCT,CIVIL,3,Shiyan,Not Enrolled,
+786,Johann,ECB16079,KRCT,ECE,4,Quetta,Enrolled,Pending
+787,John-Paul,CSB17897,KRCE,CSE,2,Trujillo,Not Enrolled,
+788,Johnny,EEEA1676,KRCT,EEE,1,Kananga,Enrolled,Paid
+789,Jojeph,MECHA1768,KRCE,MECH,3,Trabzon,Not Enrolled,
+790,Jonathon,CIVIA4567,KRCT,CIVIL,3,Jincheng,Enrolled,Pending
+791,Jonson,ECB16079,KRCT,ECE,4,Albuquerque,Not Enrolled,
+792,Jose,CSB17897,KRCE,CSE,2,Łódź,Enrolled,Paid
+793,Josep-Ramon,EEEA1676,KRCT,EEE,1,Kraków,Not Enrolled,
+794,Joshua,MECHA1768,KRCE,MECH,3,Saltillo,Enrolled,Pending
+795,Joss,CIVIA4567,KRCT,CIVIL,3,São José dos Campos,Not Enrolled,
+796,Jreen,ECB16079,KRCT,ECE,4,Hŭngnam,Enrolled,Paid
+797,Judd,CSB17897,KRCE,CSE,2,Ta‘izz,Not Enrolled,
+798,Julie,EEEA1676,KRCT,EEE,1,Pietermaritzburg,Enrolled,Pending
+799,Julyan,MECHA1768,KRCE,MECH,3,Tangier,Not Enrolled,
+800,Jusbunt,CIVIA4567,KRCT,CIVIL,3,Hsinchu,Enrolled,Paid
+801,Justine,ECB16079,KRCT,ECE,4,Changhua,Not Enrolled,
+802,Ka,CSB17897,KRCE,CSE,2,Kolhāpur,Enrolled,Pending
+803,Ka-Poon,EEEA1676,KRCT,EEE,1,Farg‘ona,Not Enrolled,
+804,Kahl,MECHA1768,KRCE,MECH,3,Namangan,Enrolled,Paid
+805,Kai,CIVIA4567,KRCT,CIVIL,3,Liège,Not Enrolled,
+806,Kaleem,ECB16079,KRCT,ECE,4,Ciudad Guayana,Enrolled,Pending
+807,Kam,CSB17897,KRCE,CSE,2,Birmingham,Not Enrolled,
+808,Kameldeed,EEEA1676,KRCT,EEE,1,Hegang,Enrolled,Paid
+809,Kamran,MECHA1768,KRCE,MECH,3,Naga City,Not Enrolled,
+810,Kari,CIVIA4567,KRCT,CIVIL,3,Gdańsk,Enrolled,Pending
+811,Kayhan,ECB16079,KRCT,ECE,4,Ansan,Not Enrolled,
+812,Kearan,CSB17897,KRCE,CSE,2,Nuremberg,Enrolled,Paid
+813,Kee,EEEA1676,KRCT,EEE,1,Oyo,Not Enrolled,
+814,Keenan,MECHA1768,KRCE,MECH,3,Amrāvati,Enrolled,Pending
+815,Keir,CIVIA4567,KRCT,CIVIL,3,Denpasar,Not Enrolled,
+816,Kelly,ECB16079,KRCT,ECE,4,Sokoto,Enrolled,Paid
+817,Kelman,CSB17897,KRCE,CSE,2,Beihai,Not Enrolled,
+818,Kenny,EEEA1676,KRCT,EEE,1,Bremen,Enrolled,Pending
+819,Kenrick,MECHA1768,KRCE,MECH,3,As Sulaymānīyah,Not Enrolled,
+820,Kern,CIVIA4567,KRCT,CIVIL,3,Hannover,Enrolled,Paid
+821,Kevyn,ECB16079,KRCT,ECE,4,Cúcuta,Not Enrolled,
+822,Khalid,CSB17897,KRCE,CSE,2,Hamilton,Enrolled,Pending
+823,Ki,EEEA1676,KRCT,EEE,1,Moshi,Not Enrolled,
+824,Kia,MECHA1768,KRCE,MECH,3,Shaoguan,Enrolled,Paid
+825,Kiain,CIVIA4567,KRCT,CIVIL,3,Kumamoto,Not Enrolled,
+826,Kier,ECB16079,KRCT,ECE,4,Dayton,Enrolled,Pending
+827,Kieren,CSB17897,KRCE,CSE,2,Xinpu,Not Enrolled,
+828,King,EEEA1676,KRCT,EEE,1,Acapulco de Juárez,Enrolled,Paid
+829,Kiran,MECHA1768,KRCE,MECH,3,Kandahār,Not Enrolled,
+830,Knok,CIVIA4567,KRCT,CIVIL,3,Dehra Dūn,Enrolled,Pending
+831,Ko,ECB16079,KRCT,ECE,4,Rochester,Not Enrolled,
+832,Konrad,CSB17897,KRCE,CSE,2,Jeonju,Enrolled,Paid
+833,Koon,EEEA1676,KRCT,EEE,1,Samarkand,Not Enrolled,
+834,Kristen,MECHA1768,KRCE,MECH,3,Qingyuan,Enrolled,Pending
+835,Kristin,CIVIA4567,KRCT,CIVIL,3,Sarasota,Not Enrolled,
+836,Kristopher,ECB16079,KRCT,ECE,4,Changzhi,Enrolled,Paid
+837,Kulbant,CSB17897,KRCE,CSE,2,Tol’yatti,Not Enrolled,
+838,Kuldeep,EEEA1676,KRCT,EEE,1,Jaboatão,Enrolled,Pending
+839,Kuldip,MECHA1768,KRCE,MECH,3,Shizuoka,Not Enrolled,
+840,Kurt,CIVIA4567,KRCT,CIVIL,3,Bulawayo,Enrolled,Paid
+841,Kurt-Gordon,ECB16079,KRCT,ECE,4,Soledad,Not Enrolled,
+842,Kwasi,CSB17897,KRCE,CSE,2,Fresno,Enrolled,Pending
+843,Kyles,EEEA1676,KRCT,EEE,1,Meknès,Not Enrolled,
+844,Laine,MECHA1768,KRCE,MECH,3,La Plata,Enrolled,Paid
+845,Laura,CIVIA4567,KRCT,CIVIL,3,Mālegaon,Not Enrolled,
+846,Lauren,ECB16079,KRCT,ECE,4,Enugu,Enrolled,Pending
+847,Laurent,CSB17897,KRCE,CSE,2,Huangshi,Not Enrolled,
+848,Lauri,EEEA1676,KRCT,EEE,1,Aracaju,Enrolled,Paid
+849,Laychlan,MECHA1768,KRCE,MECH,3,Allentown,Not Enrolled,
+850,Lea,CIVIA4567,KRCT,CIVIL,3,Bonn,Enrolled,Pending
+851,Lee-William,ECB16079,KRCT,ECE,4,San Pedro Sula,Not Enrolled,
+852,Leevi,CSB17897,KRCE,CSE,2,Nellore,Enrolled,Paid
+853,Lelio,EEEA1676,KRCT,EEE,1,Catania,Not Enrolled,
+854,Lenord,MECHA1768,KRCE,MECH,3,Gorakhpur,Enrolled,Pending
+855,Lesley,CIVIA4567,KRCT,CIVIL,3,Ipoh,Not Enrolled,
+856,Levi,ECB16079,KRCT,ECE,4,Ch’ŏngjin,Enrolled,Paid
+857,Liaqat,CSB17897,KRCE,CSE,2,Tulsa,Not Enrolled,
+858,Linn,EEEA1676,KRCT,EEE,1,Utsunomiya,Enrolled,Pending
+859,Linsay,MECHA1768,KRCE,MECH,3,Puyang Chengguanzhen,Not Enrolled,
+860,Lipton,CIVIA4567,KRCT,CIVIL,3,An Najaf,Enrolled,Paid
+861,Lisle,ECB16079,KRCT,ECE,4,São José dos Pinhais,Not Enrolled,
+862,Lister,CSB17897,KRCE,CSE,2,Santo André,Enrolled,Pending
+863,Littlesky,EEEA1676,KRCT,EEE,1,Bytom,Not Enrolled,
+864,Loaie,MECHA1768,KRCE,MECH,3,Pointe-Noire,Enrolled,Paid
+865,Logie,CIVIA4567,KRCT,CIVIL,3,Aţ Ţā’if,Not Enrolled,
+866,Lorenzo,ECB16079,KRCT,ECE,4,Ismailia,Enrolled,Pending
+867,Lorraine,CSB17897,KRCE,CSE,2,Concord,Not Enrolled,
+868,Loumont,EEEA1676,KRCT,EEE,1,Shimoga,Enrolled,Paid
+869,Luigi,MECHA1768,KRCE,MECH,3,Biên Hòa,Not Enrolled,
+870,Luis,CIVIA4567,KRCT,CIVIL,3,Xiping,Enrolled,Pending
+871,Luiz,ECB16079,KRCT,ECE,4,Kryvyy Rih,Not Enrolled,
+872,Madunil,CSB17897,KRCE,CSE,2,Irbid,Enrolled,Paid
+873,Majad,EEEA1676,KRCT,EEE,1,Tiruppūr,Not Enrolled,
+874,Maksymilian,MECHA1768,KRCE,MECH,3,Andijon,Enrolled,Pending
+875,Malkeet,CIVIA4567,KRCT,CIVIL,3,Krasnodar,Not Enrolled,
+876,Man,ECB16079,KRCT,ECE,4,Zaragoza,Enrolled,Paid
+877,Mandeep,CSB17897,KRCE,CSE,2,Genoa,Not Enrolled,
+878,Manmath,EEEA1676,KRCT,EEE,1,Diyarbakır,Enrolled,Pending
+879,Mansel,MECHA1768,KRCE,MECH,3,Morelia,Not Enrolled,
+880,Mansoor,CIVIA4567,KRCT,CIVIL,3,Ul’yanovsk,Enrolled,Paid
+881,Manuel,ECB16079,KRCT,ECE,4,Utrecht,Not Enrolled,
+882,Maqsood,CSB17897,KRCE,CSE,2,Kikwit,Enrolled,Pending
+883,Marcello,EEEA1676,KRCT,EEE,1,Al Hufūf,Not Enrolled,
+884,Marcos,MECHA1768,KRCE,MECH,3,Yogyakarta,Enrolled,Paid
+885,Marek,CIVIA4567,KRCT,CIVIL,3,Wrocław,Not Enrolled,
+886,Marin,ECB16079,KRCT,ECE,4,Winnipeg,Enrolled,Pending
+887,Marino,CSB17897,KRCE,CSE,2,Izhevsk,Not Enrolled,
+888,Marjus,EEEA1676,KRCT,EEE,1,Cape Coral,Enrolled,Paid
+889,Markos,MECHA1768,KRCE,MECH,3,Springfield,Not Enrolled,
+890,Marl,CIVIA4567,KRCT,CIVIL,3,Zhuozhou,Enrolled,Pending
+891,Marvan,ECB16079,KRCT,ECE,4,Raurkela,Not Enrolled,
+892,Marvyn,CSB17897,KRCE,CSE,2,Québec,Enrolled,Paid
+893,Mary,EEEA1676,KRCT,EEE,1,Poznań,Not Enrolled,
+894,Masood,MECHA1768,KRCE,MECH,3,Colorado Springs,Enrolled,Pending
+895,Matt,CIVIA4567,KRCT,CIVIL,3,Port Said,Not Enrolled,
+896,Maurizio,ECB16079,KRCT,ECE,4,Nānded,Enrolled,Paid
+897,Mazhar,CSB17897,KRCE,CSE,2,Bannu,Not Enrolled,
+898,Mcnamara,EEEA1676,KRCT,EEE,1,Southend-on-Sea,Enrolled,Pending
+899,Melville,MECHA1768,KRCE,MECH,3,Dresden,Not Enrolled,
+900,Melvin,CIVIA4567,KRCT,CIVIL,3,Wiesbaden,Enrolled,Paid
+901,Methven,ECB16079,KRCT,ECE,4,Charleston,Not Enrolled,
+902,Micah,CSB17897,KRCE,CSE,2,Changping,Enrolled,Pending
+903,Michal,EEEA1676,KRCT,EEE,1,Palu,Not Enrolled,
+904,Michele,MECHA1768,KRCE,MECH,3,Taizhou,Enrolled,Paid
+905,Michelle,CIVIA4567,KRCT,CIVIL,3,Xingtai,Not Enrolled,
+906,Miguel,ECB16079,KRCT,ECE,4,Samsun,Enrolled,Pending
+907,Miles,CSB17897,KRCE,CSE,2,Luxor,Not Enrolled,
+908,Milo,EEEA1676,KRCT,EEE,1,Belgaum,Enrolled,Paid
+909,Mirza,MECHA1768,KRCE,MECH,3,Pontianak,Not Enrolled,
+910,Mitchel,CIVIA4567,KRCT,CIVIL,3,Yaroslavl’,Enrolled,Pending
+911,Moazzam,ECB16079,KRCT,ECE,4,Constantine,Not Enrolled,
+912,Modan,CSB17897,KRCE,CSE,2,Banjarmasin,Enrolled,Paid
+913,Mohd,EEEA1676,KRCT,EEE,1,Grand Rapids,Not Enrolled,
+914,Montgomery,MECHA1768,KRCE,MECH,3,Kirkuk,Enrolled,Pending
+915,Morrison,CIVIA4567,KRCT,CIVIL,3,Sāngli,Not Enrolled,
+916,Moses,ECB16079,KRCT,ECE,4,Barcelona,Enrolled,Paid
+917,Moufid,CSB17897,KRCE,CSE,2,Mission Viejo,Not Enrolled,
+918,Muctarr,EEEA1676,KRCT,EEE,1,Sūhāj,Enrolled,Pending
+919,Mugahid,MECHA1768,KRCE,MECH,3,Al Manşūrah,Not Enrolled,
+920,Mukendi,CIVIA4567,KRCT,CIVIL,3,Canoas,Enrolled,Paid
+921,Mukesh,ECB16079,KRCT,ECE,4,Barnaul,Not Enrolled,
+922,Munnuwar,CSB17897,KRCE,CSE,2,Zāhedān,Enrolled,Pending
+923,Muro,EEEA1676,KRCT,EEE,1,Jalālābād,Not Enrolled,
+924,Mustapha,MECHA1768,KRCE,MECH,3,Albany,Enrolled,Paid
+925,Nabil,CIVIA4567,KRCT,CIVIL,3,Chiclayo,Not Enrolled,
+926,Nadeem,ECB16079,KRCT,ECE,4,Hermosillo,Enrolled,Pending
+927,Naeeh,CSB17897,KRCE,CSE,2,Chānda,Not Enrolled,
+928,Naeem,EEEA1676,KRCT,EEE,1,Al Ḩillah,Enrolled,Paid
+929,Navin,MECHA1768,KRCE,MECH,3,Al Ḩillah,Not Enrolled,
+930,Naweed,CIVIA4567,KRCT,CIVIL,3,Rasht,Enrolled,Pending
+931,Nazar,ECB16079,KRCT,ECE,4,Nagano,Not Enrolled,
+932,Neacal,CSB17897,KRCE,CSE,2,Vinh,Enrolled,Paid
+933,Neale,EEEA1676,KRCT,EEE,1,Abeokuta,Not Enrolled,
+934,Neel,MECHA1768,KRCE,MECH,3,Kayseri,Enrolled,Pending
+935,Neilson,CIVIA4567,KRCT,CIVIL,3,Samarinda,Not Enrolled,
+936,Nevil,ECB16079,KRCT,ECE,4,Ajmer,Enrolled,Paid
+937,Nicola,CSB17897,KRCE,CSE,2,Dortmund,Not Enrolled,
+938,Nicolo,EEEA1676,KRCT,EEE,1,Vladivostok,Enrolled,Pending
+939,Niel,MECHA1768,KRCE,MECH,3,Irkutsk,Not Enrolled,
+940,Nikolaos,CIVIA4567,KRCT,CIVIL,3,Knoxville,Enrolled,Paid
+941,Ninian,ECB16079,KRCT,ECE,4,Blantyre,Not Enrolled,
+942,Nirmaljit,CSB17897,KRCE,CSE,2,Baton Rouge,Enrolled,Pending
+943,Nishal,EEEA1676,KRCT,EEE,1,Anqing,Not Enrolled,
+944,Noah,MECHA1768,KRCE,MECH,3,Cuttack,Enrolled,Paid
+945,Noureddine,CIVIA4567,KRCT,CIVIL,3,Hachiōji,Not Enrolled,
+946,Nwachukwu,ECB16079,KRCT,ECE,4,Khabarovsk,Enrolled,Pending
+947,O'neill,CSB17897,KRCE,CSE,2,Veracruz,Not Enrolled,
+948,Obumneme,EEEA1676,KRCT,EEE,1,Kisangani,Enrolled,Paid
+949,Odaro,MECHA1768,KRCE,MECH,3,Kermān,Not Enrolled,
+950,Odin,CIVIA4567,KRCT,CIVIL,3,Orūmīyeh,Enrolled,Pending
+951,Ogilvy,ECB16079,KRCT,ECE,4,Bīkaner,Not Enrolled,
+952,Olaf,CSB17897,KRCE,CSE,2,Quetzaltenango,Enrolled,Paid
+953,Olivier,EEEA1676,KRCT,EEE,1,Bakersfield,Not Enrolled,
+954,Omer,MECHA1768,KRCE,MECH,3,Ogden,Enrolled,Pending
+955,Orest,CIVIA4567,KRCT,CIVIL,3,Shihezi,Not Enrolled,
+956,Orlando,ECB16079,KRCT,ECE,4,Kuching,Enrolled,Paid
+957,Ormond,CSB17897,KRCE,CSE,2,Shuozhou,Not Enrolled,
+958,Orpheus,EEEA1676,KRCT,EEE,1,Niigata,Enrolled,Pending
+959,Osman,MECHA1768,KRCE,MECH,3,Pereira,Not Enrolled,
+960,Otis-Chen,CIVIA4567,KRCT,CIVIL,3,Macau,Enrolled,Paid
+961,Oyvind,ECB16079,KRCT,ECE,4,New Haven,Not Enrolled,
+962,Pallab,CSB17897,KRCE,CSE,2,Bouaké,Enrolled,Pending
+963,Pamela,EEEA1676,KRCT,EEE,1,Columbia,Not Enrolled,
+964,Parvez,MECHA1768,KRCE,MECH,3,Akron,Enrolled,Paid
+965,Pasquale,CIVIA4567,KRCT,CIVIL,3,Binjai,Not Enrolled,
+966,Paulo,ECB16079,KRCT,ECE,4,Uberlândia,Enrolled,Pending
+967,Pegasus,CSB17897,KRCE,CSE,2,Sorocaba,Not Enrolled,
+968,Petter,EEEA1676,KRCT,EEE,1,Wusong,Enrolled,Paid
+969,Phil,MECHA1768,KRCE,MECH,3,Weihai,Not Enrolled,
+970,Pierce,CIVIA4567,KRCT,CIVIL,3,Mar del Plata,Enrolled,Pending
+971,Piero,ECB16079,KRCT,ECE,4,Santiago de Cuba,Not Enrolled,
+972,Pierre,CSB17897,KRCE,CSE,2,Siping,Enrolled,Paid
+973,Pietro,EEEA1676,KRCT,EEE,1,Kagoshima,Not Enrolled,
+974,Polo,MECHA1768,KRCE,MECH,3,Surakarta,Enrolled,Pending
+975,Pravin,CIVIA4567,KRCT,CIVIL,3,Makhachkala,Not Enrolled,
+976,Quillan,ECB16079,KRCT,ECE,4,Bhāvnagar,Enrolled,Paid
+977,Quintin,CSB17897,KRCE,CSE,2,Uyo,Not Enrolled,
+978,Rae,EEEA1676,KRCT,EEE,1,Bristol,Enrolled,Pending
+979,Raeph,MECHA1768,KRCE,MECH,3,Bahawalpur,Not Enrolled,
+980,Ragbir,CIVIA4567,KRCT,CIVIL,3,Kenitra,Enrolled,Paid
+981,Rahul,ECB16079,KRCT,ECE,4,Ribeirão Prêto,Not Enrolled,
+982,Rainer,CSB17897,KRCE,CSE,2,Kanazawa,Enrolled,Pending
+983,Rajesh,EEEA1676,KRCT,EEE,1,Orenburg,Not Enrolled,
+984,Rajiv,MECHA1768,KRCE,MECH,3,Málaga,Enrolled,Paid
+985,Ramesh,CIVIA4567,KRCT,CIVIL,3,Tabūk,Not Enrolled,
+986,Ramon,ECB16079,KRCT,ECE,4,Puerto La Cruz,Enrolled,Pending
+987,Rana,CSB17897,KRCE,CSE,2,Jiujiang,Not Enrolled,
+988,Randy,EEEA1676,KRCT,EEE,1,Hisar,Enrolled,Paid
+989,Ranjit,MECHA1768,KRCE,MECH,3,Kashgar,Not Enrolled,
+990,Rashid,CIVIA4567,KRCT,CIVIL,3,Matola,Enrolled,Pending
+991,Rauri,ECB16079,KRCT,ECE,4,Bilāspur,Not Enrolled,
+992,Raymund,CSB17897,KRCE,CSE,2,Sargodha,Enrolled,Paid
+993,Reagan,EEEA1676,KRCT,EEE,1,Leipzig,Not Enrolled,
+994,Reay,MECHA1768,KRCE,MECH,3,Tinnevelly,Enrolled,Pending
+995,Redmond,CIVIA4567,KRCT,CIVIL,3,Cancún,Not Enrolled,
+996,Reece,ECB16079,KRCT,ECE,4,Yangzhou,Enrolled,Paid
+997,Reese,CSB17897,KRCE,CSE,2,Novokuznetsk,Not Enrolled,
+998,Rene,EEEA1676,KRCT,EEE,1,Latakia,Enrolled,Pending
+999,Rex,MECHA1768,KRCE,MECH,3,Heroica Matamoros,Not Enrolled,
